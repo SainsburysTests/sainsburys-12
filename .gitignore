@@ -1,0 +1,6 @@
+# OSX Hidden Files
+*.AppleDouble
+*.DS_Store
+
+# OSX Thumbnails
+._*
